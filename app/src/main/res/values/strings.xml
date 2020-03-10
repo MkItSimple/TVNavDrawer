@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TVNavDrawer</string>
+    <string name="my_files">My Files</string>
+    <string name="shared">Shared</string>
+
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="starred">Starred</string>
+    <string name="recent">Recent</string>
+    <string name="backup">Backup</string>
+    <string name="settings">Settings</string>
+    <string name="app">APP</string>
+    <string name="storagae">STORAGAE</string>
+    <string name="log_out">Log Out</string>
+</resources>
